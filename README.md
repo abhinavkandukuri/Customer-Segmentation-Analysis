@@ -134,6 +134,14 @@ Customer-Segmentation-Analysis/
 
 ---
 
+# Customer Segmentation Analysis using Power BI
+
+## Dashboard Preview
+
+![Customer Segmentation Dashboard](https://github.com/abhinavkandukuri/Customer-Segmentation-Analysis/blob/main/Dashboard.png?raw=true)
+
+---
+
 ## 🚀 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
